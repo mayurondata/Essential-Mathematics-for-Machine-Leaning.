@@ -1,0 +1,4 @@
+- In this repository ,I have provided the code snippets from the NPTEL course 'Essential mathematics for machine learning'.
+- As the name suggests the course provides some of the Mathematical tools and concepts required for machine learning and also provides Mathematical underpinnings for some of the ML algorithms.
+- the code here is heavily commented ,and I have also provided some explainations for the concepts
+- Hope you enjoy learning Math as I do !
