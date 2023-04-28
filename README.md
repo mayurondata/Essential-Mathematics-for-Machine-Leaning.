@@ -30,4 +30,4 @@
 
 **Week 12** : Lagrangian Multiplier method, concepts of duality, hard and soft margin classifier, SVM in Python. + _python code_
 
-- Assuming you have some familiarity with calculus, linear algebra , optimization this repository will certainly be helpful !
+- Assuming you have some familiarity with calculus, linear algebra, optimization this repository will certainly be helpful !
